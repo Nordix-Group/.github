@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Nordix-Group&label=Visitor+count&style=for-the-badge" />
+</p>
 <!--
 
 **Here are some ideas to get you started:**
